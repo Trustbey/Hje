@@ -1,0 +1,2 @@
+# No previous file for Onega
+discovered_by = western

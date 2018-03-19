@@ -1,0 +1,2 @@
+# No previous file for Ladoga
+discovered_by = western

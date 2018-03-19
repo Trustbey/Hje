@@ -1,7 +1,7 @@
 #4368 - Marielmia
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = MRL
+controller = MRL
+add_core = MRL
 culture = saxon
 religion = catholic
 base_tax = 2

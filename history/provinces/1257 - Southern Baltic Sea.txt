@@ -1,0 +1,2 @@
+# No previous file for Southern Baltic Sea
+discovered_by = western

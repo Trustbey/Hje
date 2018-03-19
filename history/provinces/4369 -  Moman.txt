@@ -1,12 +1,12 @@
 #4369 - Moman
-owner = HJE
-controller = HJE
-add_core = HJE
-culture = saxon
-religion = catholic
+owner = MOM
+controller = MOM
+add_core = MOM
+culture = judion
+religion = jun
 base_tax = 2
 base_production = 2
-trade_goods = wine
+trade_goods = gold
 base_manpower = 2
 fort_15th = yes # Marienberg Fortress
 capital = "hje"

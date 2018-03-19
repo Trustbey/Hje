@@ -1,7 +1,7 @@
 #4373 - Allannia
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = ALL
+controller = ALL
+add_core = ALL
 culture = saxon
 religion = catholic
 base_tax = 2

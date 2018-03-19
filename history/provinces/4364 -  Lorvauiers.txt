@@ -1,7 +1,7 @@
 #4364 - Lorvauiers
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = LRV
+controller = LRV
+add_core = LRV
 culture = judion
 religion = jun
 base_tax = 2
@@ -9,7 +9,7 @@ base_production = 2
 trade_goods = wine
 base_manpower = 2
 fort_15th = yes # Marienberg Fortress
-capital = "hje"
+capital = "Lorvauiers"
 hre = no
 
 

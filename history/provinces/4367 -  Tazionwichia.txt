@@ -1,7 +1,7 @@
 #4367 - Tazionwichia
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = TAZ
+controller = TAZ
+add_core = TAZ
 culture = saxon
 religion = catholic
 base_tax = 2

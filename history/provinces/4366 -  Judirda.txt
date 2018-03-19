@@ -1,7 +1,7 @@
-#4366 - Judirda
-owner = HJE
-controller = HJE
-add_core = HJE
+#4366 - Djudirda
+owner = DJU
+controller = DJU
+add_core = DJU
 culture = saxon
 religion = catholic
 base_tax = 2

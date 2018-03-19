@@ -1,0 +1,2 @@
+# No previous file for Öresund
+discovered_by = western

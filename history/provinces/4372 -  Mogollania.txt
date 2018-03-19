@@ -1,7 +1,7 @@
 #4372 - Mogollania
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = MOG
+controller = MOG
+add_core = MOG
 culture = saxon
 religion = catholic
 base_tax = 2

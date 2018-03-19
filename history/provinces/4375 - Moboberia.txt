@@ -1,7 +1,7 @@
 #4375 - Moboberia
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = MOB
+controller = MOB
+add_core = MOB
 culture = saxon
 religion = catholic
 base_tax = 2

@@ -1,0 +1,2 @@
+# No previous file for Kattegat
+discovered_by = western

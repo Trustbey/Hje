@@ -1,0 +1,2 @@
+# No previous file for Barents Sea
+discovered_by = western

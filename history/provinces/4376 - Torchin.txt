@@ -1,7 +1,7 @@
 #4376 - Torchin
-owner = HJE
-controller = HJE
-add_core = HJE
+owner = TOR
+controller = TOR
+add_core = TOR
 culture = saxon
 religion = catholic
 base_tax = 2

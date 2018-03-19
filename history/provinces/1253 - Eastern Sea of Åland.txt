@@ -1,0 +1,2 @@
+# No previous file for Eastern Sea of Åland
+discovered_by = western

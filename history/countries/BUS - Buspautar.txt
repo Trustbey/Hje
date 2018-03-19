@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = judion
+religion = jun
+technology_group = western
+capital = 4370 # Buspautar

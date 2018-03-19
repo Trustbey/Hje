@@ -8,4 +8,5 @@ bookmark =
 	default = yes
 	
 	country = HJE
+	country = HRT
 }

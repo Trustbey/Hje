@@ -145,7 +145,7 @@ defined_text = {
         trigger = {
 			tag = HJE
 		}
-    	
+    }	
 	
 	#Middle & Near East
 	text = {
@@ -709,7 +709,7 @@ defined_text = {
 		localisation_key = string_start_hje
         trigger = {
 			tag = HJE
-			NOT = { is_year = 1448 }
+			NOT = { is_year = 1446 }
         }
 	}	
 	text = { #The Mamluk Sultanate

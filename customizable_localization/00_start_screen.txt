@@ -140,12 +140,27 @@ defined_text = {
 			tag = TRE
 		}
     }
+
 	text = {
         localisation_key = string_start_title_hje
         trigger = {
 			tag = HJE
 		}
     }	
+
+text = {
+        localisation_key = string_start_title_provence
+        trigger = {
+			tag = PRO
+		}
+    }
+	text = {
+        localisation_key = string_start_title_brittany
+        trigger = {
+			tag = BRI
+		}
+    }
+	
 	
 	#Middle & Near East
 	text = {
@@ -695,6 +710,61 @@ defined_text = {
         }
 	}
 	
+	
+	text = { # Irish Minors
+		localisation_key = string_start_irish_minors
+		trigger = {
+			OR = {
+				tag = CNN
+				tag = LEI
+				tag = MNS
+				tag = TYR
+				tag = MTH
+				tag = ULS
+				tag = DMS
+				tag = SLN
+				tag = KID
+				tag = ORD
+				tag = TRY
+				tag = FLY
+				tag = MCM
+			}
+			NOT = {
+				is_year = 1460
+			}
+		}
+	}
+	
+	text = { # Scotland
+		localisation_key = string_start_scotland
+		trigger = {
+			tag = SCO
+			NOT = {
+				is_year = 1461
+			}
+		}
+	}
+	
+	text = { # Brittany
+		localisation_key = string_start_brittany
+		trigger = {
+			tag = BRI
+			NOT = {
+				is_year = 1488
+			}
+		}
+	}
+	
+	text = { # Provence
+		localisation_key = string_start_provence
+		trigger = {
+			tag = PRO
+			NOT = {
+				is_year = 1481 # death of Rene
+			}
+		}
+	}
+	
 	#Middle & Near East
 	
 	
@@ -779,6 +849,7 @@ defined_text = {
 			}
         }
     }
+	
 	text = { #States of Yemen
 		localisation_key = string_start_yemen
         trigger = {
@@ -2209,6 +2280,25 @@ defined_text = {
 			TKG = {
 				government = shogunate
 			}
+        }
+    }
+}
+
+defined_text = {
+    name = start_anglicanism_description
+	random = no
+
+    text = {
+        localisation_key = string_anglicanism_desc
+        trigger = {
+					has_dlc = "Rule Britannia"
+					culture_group = british
+        }
+    }
+	text = {
+        localisation_key = string_anglicanism_no #Empty String
+        trigger = {
+			always = yes
         }
     }
 }

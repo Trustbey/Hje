@@ -1,0 +1,16 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+add_core = MOM
+owner = MOM
+controller = MOM
+culture = judion
+religion = jun
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Stockholm"
+is_city = yes
+
+discovered_by = western

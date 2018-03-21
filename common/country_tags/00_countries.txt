@@ -58,10 +58,16 @@ NOL = "countries/Northumberland.txt"
 GBR	= "countries/GreatBritain.txt"
 MTH = "countries/Meath.txt"
 ULS = "countries/Ulster.txt"
-DMS = "countries/Desmond.txt"
+DMS = "countries/Desmond.txt" #Earldom of Desmond
 SLN = "countries/Sligo.txt"
 KID = "countries/Kildare.txt"
 HSC = "countries/Highlands.txt"
+ORD = "countries/Ormond.txt"
+TRY = "countries/Tyrconnell.txt"
+FLY = "countries/Faly.txt"
+MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
+KOI = "countries/Mann.txt"
+LOI = "countries/TheIsles.txt"
 
 #Colonies
 BRZ	= "countries/Brazil.txt"

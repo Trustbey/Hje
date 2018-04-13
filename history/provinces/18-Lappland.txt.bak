@@ -1,4 +1,4 @@
-#Uppland, contains Stockholm, Uppsala & Nyk�ping.
+﻿#Ume, Åsele, Piteå Lappmarks
 
 add_core = MOM
 owner = MOM
@@ -6,15 +6,17 @@ controller = MOM
 culture = judion
 religion = jun
 hre = no
-base_tax = 5 
-base_production = 5
-trade_goods = grain
-base_manpower = 3
-capital = "Moman"
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Arvidsjaur"
 is_city = yes
 
-discovered_by = western
+add_local_autonomy = 70
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 

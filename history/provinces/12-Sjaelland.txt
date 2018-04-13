@@ -14,7 +14,7 @@ capital = "København"
 is_city = yes
 
 fort_15th = yes 
-capital = "hje"
+capital = "Moman"
 
 extra_cost = 20
 

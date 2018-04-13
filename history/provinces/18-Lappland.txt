@@ -1,4 +1,4 @@
-#Ume, Åsele, Piteå Lappmarks
+﻿#Ume, Åsele, Piteå Lappmarks
 
 add_core = MOM
 owner = MOM

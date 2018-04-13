@@ -6,6 +6,8 @@ color = { 228 47  142 }
 
 historical_score = 300
 
+preferred_religion = jun
+
 historical_idea_groups = {
 	diplomatic_ideas
 	defensive_ideas

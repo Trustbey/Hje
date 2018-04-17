@@ -4,5 +4,7 @@ bookmark =
 	desc = "NEWWORLD_DESC"
 	date = 1.1.1
 	
-	country = HJE
+	country = MOM
+	country = FRE
+
 }

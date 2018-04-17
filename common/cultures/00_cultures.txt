@@ -8144,7 +8144,7 @@ judgorn = {
 	graphical_culture = westerngfx
 	
 	judion = {
-		primary = HJE
+		primary = MOM
 		dynasty_names = { 
 			"Judonson" "Judava"
 		}

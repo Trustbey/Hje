@@ -1479,16 +1479,16 @@ zoroastrian_group = {
 	
 }
 junism = {
+
+	flag_emblem_index_range = { 17 17 }
 	flags_with_emblem_percentage = 33
-	flag_emblem_index_range = { 83 96 }
-	center_of_religion = 4396 # Hje
-	
 	jun = {
 		icon = 29
-		color = { 215 38 67 }
+		color = { 220 20 60 }
 		country = {
-			cav_to_inf_ratio = 0.25
 			global_regiment_cost = -0.2
+			advisor_cost = -0.1
+
 		}
 		country_as_secondary = {
 			siege_ability = 0.1
@@ -1497,14 +1497,7 @@ junism = {
 		province = {
 			local_missionary_strength = -0.02
 		}
-		on_convert = {
-			change_religion = jun
-			add_prestige = -100	
-			add_country_modifier = {
-                name = "conversion_zeal"
-                duration = 3650
-        }
-}		
+	
 		heretic = { NUJ }
 	}
 	

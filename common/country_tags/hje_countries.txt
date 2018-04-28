@@ -2,3 +2,4 @@
 
 MOM = "countries/Moman.txt"
 FRE = "countries/Freaze.txt"
+TOR = "countries/Torchin.txt"

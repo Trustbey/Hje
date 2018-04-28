@@ -1,0 +1,21 @@
+#Tavastland, incl. Tavastehus.
+
+owner = TOR
+controller = TOR
+add_core = TOR
+culture = judion
+religion = jun
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Tavastehus"
+is_city = yes
+#fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+
+
+1.1.1 = { controller = HJE owner = HJE }
+200.1.1 = { controller = TOR owner = TOR }

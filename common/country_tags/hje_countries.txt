@@ -3,3 +3,6 @@
 MOM = "countries/Moman.txt"
 FRE = "countries/Freaze.txt"
 TOR = "countries/Torchin.txt"
+MOB = "countries/Moboberia.txt"
+ANG = "countries/Angenduos.txt"
+DJU = "countries/Djudirda.txt"

@@ -1,7 +1,7 @@
 #205 - Savoie
 
-owner = CSA
-controller = CSA
+owner = MOG
+controller = MOG
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ trade_goods = cloth
 base_manpower = 5
 capital = "Chambéry"
 is_city = yes	
-add_core = SAV
+add_core = MOG
 
 
 

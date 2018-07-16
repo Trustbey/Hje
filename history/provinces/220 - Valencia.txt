@@ -1,8 +1,8 @@
 #220 - València
 
-owner = CSA	#Alfons V of Aragon
-controller = CSA
-add_core = CSA
+owner = MOG	#Alfons V of Aragon
+controller = MOG
+add_core = MOG
 add_core = CAT
 culture = catalan
 religion = catholic

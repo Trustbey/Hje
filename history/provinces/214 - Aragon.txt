@@ -1,8 +1,8 @@
 #214 - Aragón
 
-owner = CSA		# Alfons V of Aragon
-controller = CSA
-add_core = CSA
+owner = MOG		# Alfons V of Aragon
+controller = MOG
+add_core = MOG
 culture = aragonese
 religion = catholic
 hre = no

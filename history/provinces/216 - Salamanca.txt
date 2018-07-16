@@ -1,8 +1,8 @@
 #216 - Salamanca
 
-owner = CSA		#Juan II of Castille
-controller = CSA
-add_core = CSA
+owner = MOG		#Juan II of Castille
+controller = MOG
+add_core = MOG
 add_core = LON
 culture = leonese
 religion = catholic

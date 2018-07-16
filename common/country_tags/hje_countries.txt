@@ -1,14 +1,18 @@
 #Please keep tags sorted on alphabetical use when you add/remove country tags
 
+ALL = "countries/Allannia.txt"
 ANG = "countries/Angenduos.txt"
 BLT = "countries/Baltashia.txt"
+BUS = "countries/Buspautar.txt"
 CSA = "countries/Casia.txt"
 DJU = "countries/Djudirda.txt"
 ESC = "countries/Eschepres.txt"
 FRE = "countries/Freaze.txt"
 HRT = "countries/Hardtland.txt"
 LRV = "countries/Lorvauiers.txt"
+MRL = "countries/Marielmia.txt"
 MOB = "countries/Moboberia.txt"
+MOG = "countries/Mogollania.txt"
 MOM = "countries/Moman.txt"
 PTR = "countries/Pitreia.txt"
 TAZ = "countries/Tazionwichia.txt"

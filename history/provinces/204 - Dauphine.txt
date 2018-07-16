@@ -1,7 +1,7 @@
 # 204 Dauphiné - Principal cities: Grenoble
 
-owner = CSA
-controller = CSA
+owner = MOG
+controller = MOG
 capital = "Grenoble"
 is_city = yes
 culture = occitain

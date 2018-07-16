@@ -1,8 +1,8 @@
 #209 - Vizcaya
 
-owner = CSA		#Juan II de Castilla
-controller = CSA
-add_core = CSA
+owner = MOG		#Juan II de Castilla
+controller = MOG
+add_core = MOG
 culture = basque
 religion = catholic
 hre = no

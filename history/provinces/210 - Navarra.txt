@@ -1,8 +1,8 @@
 #210 - Navarra
 
-owner = CSA		#Juan I de Navarra
-controller = CSA
-add_core = CSA
+owner = MOG		#Juan I de Navarra
+controller = MOG
+add_core = MOG
 culture = basque
 religion = catholic
 hre = no

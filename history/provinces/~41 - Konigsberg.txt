@@ -1,0 +1,23 @@
+#41 - Königsberg
+
+owner = TOR
+controller = TOR
+add_core = TOR
+culture = judion
+religion = jun
+hre = no
+capital = "Königsberg"
+trade_goods = gems #Amber
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1.1.1 = { controller = HJE owner = HJE }
+200.1.1 = { controller = TOR owner = TOR }

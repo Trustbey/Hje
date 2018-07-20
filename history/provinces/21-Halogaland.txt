@@ -13,10 +13,7 @@ base_manpower = 1
 capital = "Steig"
 add_local_autonomy = 25
 is_city = yes
-estate = estate_church
+
 discovered_by = western
 discovered_by = eastern
 
-
-1.1.1 = { controller = HJE owner = HJE }
-200.1.1 = { controller = FRE owner = FRE }

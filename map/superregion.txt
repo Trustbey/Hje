@@ -1,0 +1,27 @@
+# A region can only belong to one super region.
+
+hje_superregion = {
+	momon_region
+	freaze_region
+	torchin_region
+	moboberia_region
+	angenduos_region
+	djudirda_region
+	lorvauiers_region
+	pitreia_region
+	hardtland_region
+	eschepres_region
+	baltashia_region
+	tazionwichia_region
+	mogollania_region
+	casia_region
+	allannia_region
+	marielmia_region
+	buspauta_region
+}
+
+# Sea super regions are used by AI to plan naval bases (it wants at least one fleet in each it has non-home presence if possible).
+
+hje_sea_superregion = {
+	hje_sea_region
+}

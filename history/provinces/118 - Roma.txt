@@ -2,8 +2,8 @@
 
 owner = LRV
 controller = LRV
-culture = umbrian 
-religion = catholic 
+culture = judion
+religion = jun
 hre = no
 base_tax = 10 
 base_production = 10
@@ -20,15 +20,4 @@ discovered_by = ottoman
 
 extra_cost = 10
 
-add_province_triggered_modifier = religious_center
-add_province_triggered_modifier = non_catholic_rome
 
-
-1750.1.1 = { add_core = ITA } 
-1809.4.10 = { controller = FRA } # Occupied by French troops
-1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn
-1814.4.11 = {
-	owner = PAP
-	controller = PAP
-	remove_core = FRA
-} # # Treaty of Fontainebleau, Napoleon abdicates unconditionally

@@ -3,9 +3,9 @@
 owner = MOB
 controller = MOB
 add_core = MOB
-culture = pommeranian
-religion = catholic
-hre = yes
+culture = judion
+religion = jun
+hre = no
 base_tax = 3 
 base_production = 3
 trade_goods = fish

@@ -1,0 +1,120 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+########################################
+# EUROPE                               #
+########################################
+
+momon_region = {
+	areas = {
+		momon_area
+	}
+}
+
+freaze_region = {
+	areas = {
+		freaze_area
+	}
+}
+
+torchin_region = {
+	areas = {
+		torchin_area
+	}
+}
+
+moboberia_region = {
+	areas = {
+		moboberia_area
+	}
+}
+
+angenduos_region = {
+	areas = {
+		angenduos_area
+	}
+}
+
+djudirda_region = {
+	areas = {
+		djudirda_area
+	}
+}
+
+lorvauiers_region = {
+	areas = {
+		lorvauiers_area
+	}
+}
+
+pitreia_region = {
+	areas = {
+		pitreia_area
+	}
+}
+
+hardtland_region = {
+	areas = {
+		hardtland_area
+	}
+}
+
+eschepres_region = {
+	areas = {
+		eschepres_area
+	}
+}
+
+baltashia_region = {
+	areas = {
+		baltashia_area
+	}
+}
+
+tazionwichia_region = {
+	areas = {
+		tazionwichia_area
+	}
+}
+
+mogollania_region = {
+	areas = {
+		mogollania_area
+	}
+}
+
+casia_region = {
+	areas = {
+		casia_area
+	}
+}
+
+allannia_region = {
+	areas = {
+		allannia_area
+	}
+}
+
+marielmia_region = {
+	areas = {
+		marielmia_area
+	}
+}
+
+buspauta_region = {
+	areas = {
+		buspauta_area
+	}
+}
+
+#Sea Regions
+hje_sea_region = {
+	areas = {
+		hje_sea_area
+	}
+}
+
+

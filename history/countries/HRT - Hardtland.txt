@@ -1,0 +1,16 @@
+government = feudal_monarchy
+primary_culture = judion
+religion = jun
+technology_group = western
+capital = 151 # 
+
+200.1.1 = {
+	monarch = {
+		name = "Bla"
+		dynasty = blam
+		birth_date = 180.5.3
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

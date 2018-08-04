@@ -1,7 +1,7 @@
 #285 - Kaffa
 
-owner = FRE
-controller = FRE 
+owner = HRT
+controller = HRT 
 culture = judion
 religion = jun
 hre = no
@@ -11,7 +11,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Kaffa"
 is_city = yes
-add_core = FRE
+add_core = HRT
 
 
 

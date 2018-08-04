@@ -10,37 +10,48 @@ random_new_world_region = {
 
 momon_region = {
 	areas = {
-		momon_area
+		momon_a_area
+		momon_b_area
+		momon_c_area
+		momon_d_area
 	}
 }
 
 freaze_region = {
 	areas = {
-		freaze_area
+		freaze_a_area
+		freaze_b_area
 	}
 }
 
 torchin_region = {
 	areas = {
-		torchin_area
+		torchin_a_area
+		torchin_b_area
+		torchin_c_area
 	}
 }
 
 moboberia_region = {
 	areas = {
-		moboberia_area
+		moboberia_a_area
+		moboberia_c_area
+		moboberia_c_area
 	}
 }
 
 angenduos_region = {
 	areas = {
-		angenduos_area
+		angenduos_a_area
+		angenduos_b_area
+		angenduos_c_area
 	}
 }
 
 djudirda_region = {
 	areas = {
-		djudirda_area
+		djudirda_a_area
+		djudirda_b_area
 	}
 }
 
